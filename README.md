@@ -1,3 +1,3 @@
-# myProgect
+# myProject
 test repo
 >>>
